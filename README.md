@@ -4,7 +4,7 @@
 # 👤 About Me
 - 🙋‍♂️ I’m interested in building beautiful, clean and lightweight sites
 - 💻 You can see my portfolio and full skillset [here](https://samllo.github.io/Portfolio-2021/)
-- 🌱 I’m currently learning SASS, React and PHP
+- 🌱 I’m currently learning React.
 - 👀 I’m actively looking for Front-End development work based in the North West, UK
 - 📫 You can reach me at sam.thomas.lloyd@gmail.com
 
